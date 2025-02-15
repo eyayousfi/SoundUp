@@ -40,15 +40,16 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAqtHz3mqSoZvBxpVAqcehaaQmYK_ehbKo',
-    appId: '1:676978108874:web:a3c33a3873d65567908733',
-    messagingSenderId: '676978108874',
-    projectId: 'musicapp-118ed',
-    authDomain: 'musicapp-118ed.firebaseapp.com',
-    storageBucket: 'musicapp-118ed.appspot.com',
-    measurementId: 'G-SE2RCL3EFQ',
-  );
+const firebaseConfig = {
+  apiKey: "your-api-key",
+  appId: "your-app-id",
+  messagingSenderId: "676978108874",
+  projectId: "musicapp-118ed",
+  authDomain: "musicapp-118ed.firebaseapp.com",
+  storageBucket: "musicapp-118ed.appspot.com",
+  measurementId: "G-SE2RCL3EFQ"
+};
+
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyDv3lEZPjDG0Xu94XCGwITggkQ9s0V_qWo',
