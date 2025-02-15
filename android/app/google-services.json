@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676978108874",
+    "project_id": "musicapp-118ed",
+    "storage_bucket": "musicapp-118ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676978108874:android:d4ee40fa4234c50c908733",
+        "android_client_info": {
+          "package_name": "com.example.sptify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv3lEZPjDG0Xu94XCGwITggkQ9s0V_qWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
